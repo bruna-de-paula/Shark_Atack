@@ -9,6 +9,6 @@ https://www.kaggle.com/teajay/global-shark-attacks
 
 RESULTADOS
 
-LINK DO TABLEAU: 
+LINK DO TABLEAU: https://public.tableau.com/profile/bruna6041#!/vizhome/Projeto-SharkAttacks/Histria2?publish=yes
 
 Resultdos
